@@ -4,8 +4,7 @@ Here’s a well-structured **GitHub README** for your **Fibonacci Sequence Imple
 
 # **Fibonacci Sequence Implementation using Proteus**  
 
-![Proteus Simulation](https://your-image-link-here) *(Replace with actual image if available)*  
-
+![Proteus Simulation](./fibonacci_image.jpg) 
 ## 📌 **Project Overview**  
 This project demonstrates the **Fibonacci sequence generation** using a **microcontroller-based embedded system** in **Proteus**. The simulation illustrates how the Fibonacci series is computed and displayed on an **LCD screen**, making it suitable for **educational and embedded systems applications**.  
 
